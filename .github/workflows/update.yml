@@ -1,0 +1,31 @@
+name: Update holidays calendar
+
+on:
+  schedule:
+    - cron: "17 3 2 * *" # monthly, on the 2nd at 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run tests
+        run: python3 test_build_calendar.py
+      - name: Regenerate calendar
+        run: python3 build_calendar.py
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet -- syukujitsu.ics syukujitsu.csv; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add syukujitsu.ics syukujitsu.csv
+            git commit -m "Update holidays from Cabinet Office CSV"
+            git push
+          fi
