@@ -1,1 +1,64 @@
-IiIiVGVzdHMgZm9yIGJ1aWxkX2NhbGVuZGFyLnB5IOKAlCBydW46IHB5dGhvbjMgdGVzdF9idWlsZF9jYWxlbmRhci5weSIiIgppbXBvcnQgc3lzCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGUKCnN5cy5wYXRoLmluc2VydCgwLCAiLiIpCmZyb20gYnVpbGRfY2FsZW5kYXIgaW1wb3J0IHBhcnNlX2hvbGlkYXlzLCBidWlsZF9pY3MsIGJ1aWxkX3V0ZjhfY3N2CgpGSVhUVVJFID0gIiIi5Zu95rCR44Gu56Wd5pel44O75LyR5pel5pyI5pelLOWbveawkeOBruelneaXpeODu+S8keaXpeWQjeensAoyMDI2LzEvMSzlhYPml6UKMjAyNi81LzMs5oay5rOV6KiY5b+15pelCjIwMjYvNS80LOOBv+OBqeOCiuOBruaXpQoyMDI2LzUvNSzjgZPjganjgoLjga7ml6UKMjAyNi81LzYs5oyv5pu/5LyR5pelCjIwMjUvMTIvMzEs5aSn5pmm5pel44OA44Of44O8CiIiIgoKZmFpbHVyZXMgPSBbXQoKZGVmIGNoZWNrKG5hbWUsIGNvbmQpOgogICAgcHJpbnQoKCJQQVNTIiBpZiBjb25kIGVsc2UgIkZBSUwiKSwgbmFtZSkKICAgIGlmIG5vdCBjb25kOgogICAgICAgIGZhaWx1cmVzLmFwcGVuZChuYW1lKQoKIyAtLS0gcGFyc2VfaG9saWRheXMgLS0tCnJvd3MgPSBwYXJzZV9ob2xpZGF5cyhGSVhUVVJFKQpjaGVjaygicGFyc2UgY291bnQiLCBsZW4ocm93cykgPT0gNikKY2hlY2soInBhcnNlIHNvcnRlZCIsIFtyWzBdIGZvciByIGluIHJvd3NdID09IHNvcnRlZChyWzBdIGZvciByIGluIHJvd3MpKQpjaGVjaygicGFyc2UgZmlyc3QiLCByb3dzWzBdID09IChkYXRlKDIwMjUsIDEyLCAzMSksICLlpKfmmabml6Xjg4Djg5/jg7wiKSkKY2hlY2soInBhcnNlIGdhbnRhbiIsIChkYXRlKDIwMjYsIDEsIDEpLCAi5YWD5pelIikgaW4gcm93cykKY2hlY2soInBhcnNlIHR5cGVzIiwgYWxsKGlzaW5zdGFuY2UoZCwgZGF0ZSkgYW5kIGlzaW5zdGFuY2Uobiwgc3RyKSBmb3IgZCwgbiBpbiByb3dzKSkKCiMgZHVwbGljYXRlIHJlbW92YWwKZHVwID0gcGFyc2VfaG9saWRheXMoRklYVFVSRSArICIyMDI2LzEvMSzlhYPml6VcbiIpCmNoZWNrKCJwYXJzZSBkZWR1cGUiLCBsZW4oZHVwKSA9PSA2KQoKIyAtLS0gYnVpbGRfaWNzIC0tLQppY3MgPSBidWlsZF9pY3Mocm93cywgIjIwMjYwMTAxVDAwMDAwMFoiKQpjaGVjaygiaWNzIGhlYWRlciIsICJCRUdJTjpWQ0FMRU5EQVIiIGluIGljcyBhbmQgIlZFUlNJT046Mi4wIiBpbiBpY3MpCmNoZWNrKCJpY3MgY2FsbmFtZSIsICJYLVdSLUNBTE5BTUU65pel5pys44Gu56Wd5pel77yI5YaF6Zaj5bqc77yJIiBpbiBpY3MpCmNoZWNrKCJpY3MgZXZlbnQgY291bnQiLCBpY3MuY291bnQoIkJFR0lOOlZFVkVOVCIpID09IDYpCmNoZWNrKCJpY3MgY3JsZiIsICJcclxuIiBpbiBpY3MgYW5kIGljcy5jb3VudCgiXG4iKSA9PSBpY3MuY291bnQoIlxyXG4iKSkKY2hlY2soImljcyBkdHN0YXJ0IiwgIkRUU1RBUlQ7VkFMVUU9REFURToyMDI2MDEwMSIgaW4gaWNzKQpjaGVjaygiaWNzIGR0ZW5kIG5leHQgZGF5IiwgIkRURU5EO1ZBTFVFPURBVEU6MjAyNjAxMDIiIGluIGljcykKY2hlY2soImljcyBkdGVuZCB5ZWFyIGJvdW5kYXJ5IiwgIkRURU5EO1ZBTFVFPURBVEU6MjAyNjAxMDEiIGluIGljcykgICMgMjAyNS8xMi8zMSAtPiAyMDI2LzAxLzAxCmNoZWNrKCJpY3MgdWlkIiwgIlVJRDpzeXVrdWppdHN1LTIwMjYwMTAxQGpwLWhvbGlkYXlzLWNhbGVuZGFyIiBpbiBpY3MpCnVpZHMgPSBbbCBmb3IgbCBpbiBpY3Muc3BsaXQoIlxyXG4iKSBpZiBsLnN0YXJ0c3dpdGgoIlVJRDoiKV0KY2hlY2soImljcyB1aWQgdW5pcXVlIiwgbGVuKHVpZHMpID09IGxlbihzZXQodWlkcykpID09IDYpCmNoZWNrKCJpY3Mgc3VtbWFyeSIsICJTVU1NQVJZOuaMr+abv+S8keaXpSIgaW4gaWNzKQpjaGVjaygiaWNzIHRyYW5zcGFyZW50IiwgaWNzLmNvdW50KCJUUkFOU1A6VFJBTlNQQVJFTlQiKSA9PSA2KQpjaGVjaygiaWNzIGR0c3RhbXAiLCBpY3MuY291bnQoIkRUU1RBTVA6MjAyNjAxMDFUMDAwMDAwWiIpID09IDYpCgojIC0tLSBidWlsZF91dGY4X2NzdiAtLS0Kb3V0ID0gYnVpbGRfdXRmOF9jc3Yocm93cykKbGluZXMgPSBvdXQuc3RyaXAoKS5zcGxpdGxpbmVzKCkKY2hlY2soImNzdiBoZWFkZXIiLCBsaW5lc1swXSA9PSAiZGF0ZSxuYW1lIikKY2hlY2soImNzdiBjb3VudCIsIGxlbihsaW5lcykgPT0gNykKY2hlY2soImNzdiBpc28iLCAiMjAyNi0wMS0wMSzlhYPml6UiIGluIGxpbmVzKQpjaGVjaygiY3N2IGZ1cmlrYWUiLCAiMjAyNi0wNS0wNizmjK/mm7/kvJHml6UiIGluIGxpbmVzKQoKcHJpbnQoKQppZiBmYWlsdXJlczoKICAgIHByaW50KCJGQUlMVVJFUzoiLCBmYWlsdXJlcykKICAgIHN5cy5leGl0KDEpCnByaW50KCJBTEwgVEVTVFMgUEFTU0VEIikK
+"""Tests for build_calendar.py — run: python3 test_build_calendar.py"""
+import sys
+from datetime import date
+
+sys.path.insert(0, ".")
+from build_calendar import parse_holidays, build_ics, build_utf8_csv
+
+FIXTURE = """国民の祝日・休日月日,国民の祝日・休日名称
+2026/1/1,元日
+2026/5/3,憲法記念日
+2026/5/4,みどりの日
+2026/5/5,こどもの日
+2026/5/6,振替休日
+2025/12/31,大晦日ダミー
+"""
+
+failures = []
+
+def check(name, cond):
+    print(("PASS" if cond else "FAIL"), name)
+    if not cond:
+        failures.append(name)
+
+# --- parse_holidays ---
+rows = parse_holidays(FIXTURE)
+check("parse count", len(rows) == 6)
+check("parse sorted", [r[0] for r in rows] == sorted(r[0] for r in rows))
+check("parse first", rows[0] == (date(2025, 12, 31), "大晦日ダミー"))
+check("parse gantan", (date(2026, 1, 1), "元日") in rows)
+check("parse types", all(isinstance(d, date) and isinstance(n, str) for d, n in rows))
+
+# duplicate removal
+dup = parse_holidays(FIXTURE + "2026/1/1,元日\n")
+check("parse dedupe", len(dup) == 6)
+
+# --- build_ics ---
+ics = build_ics(rows, "20260101T000000Z")
+check("ics header", "BEGIN:VCALENDAR" in ics and "VERSION:2.0" in ics)
+check("ics calname", "X-WR-CALNAME:日本の祝日（内閣府）" in ics)
+check("ics event count", ics.count("BEGIN:VEVENT") == 6)
+check("ics crlf", "\r\n" in ics and ics.count("\n") == ics.count("\r\n"))
+check("ics dtstart", "DTSTART;VALUE=DATE:20260101" in ics)
+check("ics dtend next day", "DTEND;VALUE=DATE:20260102" in ics)
+check("ics dtend year boundary", "DTEND;VALUE=DATE:20260101" in ics)  # 2025/12/31 -> 2026/01/01
+check("ics uid", "UID:syukujitsu-20260101@jp-holidays-calendar" in ics)
+uids = [l for l in ics.split("\r\n") if l.startswith("UID:")]
+check("ics uid unique", len(uids) == len(set(uids)) == 6)
+check("ics summary", "SUMMARY:振替休日" in ics)
+check("ics transparent", ics.count("TRANSP:TRANSPARENT") == 6)
+check("ics dtstamp", ics.count("DTSTAMP:20260101T000000Z") == 6)
+
+# --- build_utf8_csv ---
+out = build_utf8_csv(rows)
+lines = out.strip().splitlines()
+check("csv header", lines[0] == "date,name")
+check("csv count", len(lines) == 7)
+check("csv iso", "2026-01-01,元日" in lines)
+check("csv furikae", "2026-05-06,振替休日" in lines)
+
+print()
+if failures:
+    print("FAILURES:", failures)
+    sys.exit(1)
+print("ALL TESTS PASSED")
