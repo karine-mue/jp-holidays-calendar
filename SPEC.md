@@ -1,1 +1,32 @@
-IyDku5Xmp5g6IGJ1aWxkX2NhbGVuZGFyLnB577yI5YaF6Zaj5bqc44O756Wd5pelQ1NWIOKGkiBJQ1PvvIkKCiMjIOebrueahArlhoXplqPlupzjgYzlhazplovjgZnjgovjgIzlm73msJHjga7npZ3ml6XjgI1DU1Yg44KS5Y+W5b6X44GX44CBR29vZ2xlIOOCq+ODrOODs+ODgOODvOetieOBq+izvOiqreOBp+OBjeOCiyBJQ1Mg44Go44CB5YaN5Yip55So44GX44KE44GZ44GEIFVURi04IENTViDjgpLnlJ/miJDjgZnjgovjgILmraPnorrmgKfjga/jgIzlhoXplqPlupzjga7lhazlvI9DU1bjgpLjgZ3jga7jgb7jgb7kvb/jgYbjgI3jgZPjgajjgafmi4Xkv53jgZnjgovvvIjnpZ3ml6XoqIjnrpfjg63jgrjjg4Pjgq/jga/oh6rliY3jgaflrp/oo4XjgZfjgarjgYTvvInjgIIKCiMjIOODh+ODvOOCv+a6kO+8iOWun+a4rOa4iOOBvyAyMDI2LTExLTE177yJCi0gVVJMOiBodHRwczovL3d3dzguY2FvLmdvLmpwL2Nob3NlaS9zaHVrdWppdHN1L3N5dWt1aml0c3UuY3N2Ci0g5paH5a2X44Kz44O844OJOiBTaGlmdF9KSVMKLSDjg5jjg4Pjg4Djg7w6IGDlm73msJHjga7npZ3ml6Xjg7vkvJHml6XmnIjml6Us5Zu95rCR44Gu56Wd5pel44O75LyR5pel5ZCN56ewYAotIOaXpeS7mOW9ouW8jzogYFlZWVkvTS9EYO+8iOS+iyAyMDI2LzEvMe+8iQotIOWPjumMsuevhOWbsjogMTk1NS8xLzEg44CcIDIwMjcvMTEvMjPjgIHlhagxLDA2N+ihjO+8iOWPluW+l+aZgueCue+8ieOAguaMr+abv+S8keaXpeODu+WbveawkeOBruS8keaXpeOCguihjOOBqOOBl+OBpuWQq+OBvuOCjOOCi+OBjOOAgeWQjeensOOBr+OBhOOBmuOCjOOCguOAjOS8keaXpeOAjeOBp+WPjumMsuOBleOCjOOBpuOBhOOCi++8iOWun+a4rOOBp+WIpOaYju+8muWQjeensOOAjOaMr+abv+S8keaXpeOAjeOAjOWbveawkeOBruS8keaXpeOAjeOBruihjOOBr+WtmOWcqOOBl+OBquOBhOOAguOAjOS8keaXpeOAjeOBr+WFqOacn+mWk+OBpzExNuihjO+8ieOAguWkieaPm+OBr+WFrOW8j+WQjeensOOBruOBvuOBvuihjOOBhuOAggoKIyMg5a6f6KOF6KaB5Lu2Ci0gUHl0aG9uIOaomea6luODqeOCpOODluODqeODquOBruOBv+OAggotIOmWouaVsOOCkiBpbXBvcnQg5Y+v6IO944Gr5YiG44GR44KLOgogIC0gYHBhcnNlX2hvbGlkYXlzKHRleHQ6IHN0cikgLT4gbGlzdFt0dXBsZVtkYXRldGltZS5kYXRlLCBzdHJdXWAg4oCUIENTVuODhuOCreOCueODiO+8iFNoaWZ0X0pJU+ODh+OCs+ODvOODiea4iOOBv+aWh+Wtl+WIl++8ieOCkuWPl+OBkeWPluOCiuOAgeaXpeS7mOaYh+mghuODu+mHjeikh+mZpOWOu+a4iOOBv+OBruODquOCueODiOOCkui/lOOBmeOAguODmOODg+ODgOODvOihjOOBr+iqreOBv+mjm+OBsOOBmeOAggogIC0gYGJ1aWxkX2ljcyhyb3dzLCBkdHN0YW1wOiBzdHIpIC0+IHN0cmAg4oCUIElDU+aWh+Wtl+WIl+OCkui/lOOBmeOAgmR0c3RhbXAg44Gv5ZG844Gz5Ye644GX5YG044GM5rih44GZ77yI44OG44K544OI44Gn5Zu65a6a44Gn44GN44KL44KI44GG44Gr77yJ44CCCiAgLSBgYnVpbGRfdXRmOF9jc3Yocm93cykgLT4gc3RyYCDigJQgYGRhdGUsbmFtZWAg44OY44OD44OA44O85LuY44GN44CBSVNP5pel5LuY77yIWVlZWS1NTS1ERO+8ieOBrkNTVuaWh+Wtl+WIl+OAggogIC0gYG1haW4oKWAg4oCUIENMSeOAggotIENMSSDlvJXmlbA6IGAtLWZyb20teWVhcmDvvIhpbnTjgIHjg4fjg5Xjgqnjg6vjg4jjga/ku4rlubTiiJIx44CC44GT44Gu5bm05Lul6ZmN44Gu6KGM44Gg44GR5Ye65Yqb77yJ44CBYC0tc291cmNlYO+8iFVSTCDjgb7jgZ/jga/jg63jg7zjgqvjg6vjg5HjgrnjgIHjg4fjg5Xjgqnjg6vjg4jjga/kuIroqJjlhazlvI9VUkzvvInjgIFgLS1vdXQtZGlyYO+8iOODh+ODleOCqeODq+ODiOOBr+OCq+ODrOODs+ODiOODh+OCo+ODrOOCr+ODiOODqu+8ieOAggotIElDUyDjga7opoHku7Y6CiAgLSBgQkVHSU46VkNBTEVOREFSYCAvIGBWRVJTSU9OOjIuMGAgLyBgUFJPRElEOi0vL2pwLWhvbGlkYXlzLWNhbGVuZGFyLy9KUC8vYCAvIGBDQUxTQ0FMRTpHUkVHT1JJQU5gIC8gYE1FVEhPRDpQVUJMSVNIYAogIC0g44Kr44Os44Oz44OA44O85ZCNOiBgWC1XUi1DQUxOQU1FOuaXpeacrOOBruelneaXpe+8iOWGhemWo+W6nO+8iWAKICAtIOWQhCBWRVZFTlQ6IGBVSUQ6c3l1a3VqaXRzdS1ZWVlZTU1EREBqcC1ob2xpZGF5cy1jYWxlbmRhcmDvvIjml6Xku5jjgafkuIDmhI/jg7vlronlrprvvInjgIFgRFRTVEFNUGDvvIjlvJXmlbDjga7lgKTvvInjgIFgRFRTVEFSVDtWQUxVRT1EQVRFOllZWVlNTUREYOOAgWBEVEVORDtWQUxVRT1EQVRFOmAg57+M5pel44CBYFNVTU1BUlk65ZCN56ewYOOAgWBUUkFOU1A6VFJBTlNQQVJFTlRg77yI57WC5pel44O75pmC6ZaT44KS44OW44Ot44OD44Kv44GX44Gq44GE77yJCiAgLSDooYzmnKvjga8gQ1JMRu+8iFJGQyA1NTQ177yJ44CCCi0g5Ye65Yqb44OV44Kh44Kk44OrOiBgc3l1a3VqaXRzdS5pY3NgIOOBqCBgc3l1a3VqaXRzdS5jc3Zg77yIVVRGLTjniYjvvInjgpIgb3V0LWRpciDjgavmm7jjgY/jgIIKLSDjgqjjg6njg7zlh6bnkIY6IOWPluW+l+WkseaVl+OChOODkeODvOOCueS4jeiDveihjOOBjOOBguOCjOOBsOS+i+WkluOBp+iQveOBqOOBme+8iOm7meOBo+OBpuasoOiQveOBleOBm+OBquOBhO+8ieOAggoKIyMg44OG44K544OI6Kaz54K577yITXVzZSDlgbTjgaflrp/mlr3vvIkKLSDjg5XjgqPjgq/jgrnjg4Hjg6NDU1bjgafjga4gcGFyc2UgLyBJQ1MgLyBDU1Yg5aSJ5o+b44Gu5q2j56K644GV77yI5Lu25pWw44CBRFRFTkQ957+M5pel44CBVUlE5LiA5oSP44CBQ1JMRuOAgVRSQU5TUEFSRU5U77yJ44CCCi0g5a6f44OH44O844K/OiAyMDI25bm044GMMTjku7bjgIEyMDI2LzEvMT3lhYPml6XjgIEyMDI3LzExLzIzPeWLpOWKtOaEn+isneOBruaXpSDjgYwgSUNTIOOBq+WQq+OBvuOCjOOCi+OAggotIGZyb20teWVhciDjg5XjgqPjg6vjgr/jga7looPnlYzjgIIK
+# 仕様: build_calendar.py（内閣府・祝日CSV → ICS）
+
+## 目的
+内閣府が公開する「国民の祝日」CSV を取得し、Google カレンダー等に購読できる ICS と、再利用しやすい UTF-8 CSV を生成する。正確性は「内閣府の公式CSVをそのまま使う」ことで担保する（祝日計算ロジックは自前で実装しない）。
+
+## データ源（実測済み 2026-11-15）
+- URL: https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv
+- 文字コード: Shift_JIS
+- ヘッダー: `国民の祝日・休日月日,国民の祝日・休日名称`
+- 日付形式: `YYYY/M/D`（例 2026/1/1）
+- 収録範囲: 1955/1/1 〜 2027/11/23、全1,067行（取得時点）。振替休日・国民の休日も行として含まれるが、名称はいずれも「休日」で収録されている（実測で判明：名称「振替休日」「国民の休日」の行は存在しない。「休日」は全期間で116行）。変換は公式名称のまま行う。
+
+## 実装要件
+- Python 標準ライブラリのみ。
+- 関数を import 可能に分ける:
+  - `parse_holidays(text: str) -> list[tuple[datetime.date, str]]` — CSVテキスト（Shift_JISデコード済み文字列）を受け取り、日付昇順・重複除去済みのリストを返す。ヘッダー行は読み飛ばす。
+  - `build_ics(rows, dtstamp: str) -> str` — ICS文字列を返す。dtstamp は呼び出し側が渡す（テストで固定できるように）。
+  - `build_utf8_csv(rows) -> str` — `date,name` ヘッダー付き、ISO日付（YYYY-MM-DD）のCSV文字列。
+  - `main()` — CLI。
+- CLI 引数: `--from-year`（int、デフォルトは今年−1。この年以降の行だけ出力）、`--source`（URL またはローカルパス、デフォルトは上記公式URL）、`--out-dir`（デフォルトはカレントディレクトリ）。
+- ICS の要件:
+  - `BEGIN:VCALENDAR` / `VERSION:2.0` / `PRODID:-//jp-holidays-calendar//JP//` / `CALSCALE:GREGORIAN` / `METHOD:PUBLISH`
+  - カレンダー名: `X-WR-CALNAME:日本の祝日（内閣府）`
+  - 各 VEVENT: `UID:syukujitsu-YYYYMMDD@jp-holidays-calendar`（日付で一意・安定）、`DTSTAMP`（引数の値）、`DTSTART;VALUE=DATE:YYYYMMDD`、`DTEND;VALUE=DATE:` 翌日、`SUMMARY:名称`、`TRANSP:TRANSPARENT`（終日・時間をブロックしない）
+  - 行末は CRLF（RFC 5545）。
+- 出力ファイル: `syukujitsu.ics` と `syukujitsu.csv`（UTF-8版）を out-dir に書く。
+- エラー処理: 取得失敗やパース不能行があれば例外で落とす（黙って欠落させない）。
+
+## テスト観点（Muse 側で実施）
+- フィクスチャCSVでの parse / ICS / CSV 変換の正確さ（件数、DTEND=翌日、UID一意、CRLF、TRANSPARENT）。
+- 実データ: 2026年が18件、2026/1/1=元日、2027/11/23=勤労感謝の日 が ICS に含まれる。
+- from-year フィルタの境界。
