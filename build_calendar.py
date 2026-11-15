@@ -1,1 +1,188 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJidWlsZF9jYWxlbmRhci5weQoKQ29udmVydHMgdGhlIEphcGFuZXNlIENhYmluZXQgT2ZmaWNlJ3Mgb2ZmaWNpYWwgbmF0aW9uYWwtaG9saWRheSBDU1YKaW50byBhbiBpQ2FsZW5kYXIgKC5pY3MpIGZpbGUgYW5kIGEgbm9ybWFsaXplZCBVVEYtOCBDU1YuCiIiIgoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBjc3YKaW1wb3J0IGRhdGV0aW1lCmltcG9ydCBpbwppbXBvcnQgb3MKaW1wb3J0IHVybGxpYi5yZXF1ZXN0CmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKREVGQVVMVF9TT1VSQ0VfVVJMID0gImh0dHBzOi8vd3d3OC5jYW8uZ28uanAvY2hvc2VpL3NodWt1aml0c3Uvc3l1a3VqaXRzdS5jc3YiCkVYUEVDVEVEX0hFQURFUlMgPSAoIuWbveawkeOBruelneaXpeODu+S8keaXpeaciOaXpSIsICLlm73msJHjga7npZ3ml6Xjg7vkvJHml6XlkI3np7AiKQoKZGVmIHBhcnNlX2hvbGlkYXlzKHRleHQ6IHN0cikgLT4gbGlzdFt0dXBsZVtkYXRldGltZS5kYXRlLCBzdHJdXToKICAgICIiIlBhcnNlIGRlY29kZWQgaG9saWRheSBDU1YgdGV4dCBpbnRvIHNvcnRlZCwgZGVkdXBsaWNhdGVkIChkYXRlLCBuYW1lKSB0dXBsZXMuIiIiCiAgICBpZiBub3QgdGV4dCBvciBub3QgdGV4dC5zdHJpcCgpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIklucHV0IENTViB0ZXh0IGlzIGVtcHR5LiIpCgogICAgY2xlYW5lZF90ZXh0ID0gdGV4dC5sc3RyaXAoIlx1ZmVmZiIpCiAgICByZWFkZXIgPSBjc3YucmVhZGVyKGlvLlN0cmluZ0lPKGNsZWFuZWRfdGV4dCkpCgogICAgdHJ5OgogICAgICAgIGhlYWRlciA9IG5leHQocmVhZGVyKQogICAgZXhjZXB0IFN0b3BJdGVyYXRpb24gYXMgZXhjOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIklucHV0IENTViB0ZXh0IGlzIGVtcHR5LiIpIGZyb20gZXhjCgogICAgaWYgaGVhZGVyICE9IGxpc3QoRVhQRUNURURfSEVBREVSUyk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigKICAgICAgICAgICAgZiJVbmV4cGVjdGVkIENTViBoZWFkZXI6IHtoZWFkZXIhcn07ICIKICAgICAgICAgICAgZiJleHBlY3RlZCB7bGlzdChFWFBFQ1RFRF9IRUFERVJTKSFyfSIKICAgICAgICApCgogICAgcm93czogbGlzdFt0dXBsZVtkYXRldGltZS5kYXRlLCBzdHJdXSA9IFtdCiAgICBzZWVuOiBzZXRbdHVwbGVbZGF0ZXRpbWUuZGF0ZSwgc3RyXV0gPSBzZXQoKQoKICAgIGZvciBsaW5lX251bSwgcm93IGluIGVudW1lcmF0ZShyZWFkZXIsIHN0YXJ0PTIpOgogICAgICAgIGlmIG5vdCByb3cgb3IgKGxlbihyb3cpID09IDEgYW5kIG5vdCByb3dbMF0uc3RyaXAoKSk6CiAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgIGlmIGxlbihyb3cpICE9IDI6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgICAgICBmIk1hbGZvcm1lZCByb3cgYXQgbGluZSB7bGluZV9udW19OiBleHBlY3RlZCAyIGNvbHVtbnMsIGdvdCB7bGVuKHJvdyl9ICh7cm93IXJ9KSIKICAgICAgICAgICAgKQoKICAgICAgICBkYXRlX3RleHQsIG5hbWUgPSByb3cKICAgICAgICBuYW1lID0gbmFtZS5zdHJpcCgpCiAgICAgICAgZGF0ZV90ZXh0ID0gZGF0ZV90ZXh0LnN0cmlwKCkKCiAgICAgICAgaWYgbm90IG5hbWU6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJNYWxmb3JtZWQgcm93IGF0IGxpbmUge2xpbmVfbnVtfTogZW1wdHkgaG9saWRheSBuYW1lICh7cm93IXJ9KSIpCgogICAgICAgIGlmIG5vdCBkYXRlX3RleHQ6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJNYWxmb3JtZWQgcm93IGF0IGxpbmUge2xpbmVfbnVtfTogZW1wdHkgZGF0ZSAoe3JvdyFyfSkiKQoKICAgICAgICB0cnk6CiAgICAgICAgICAgIHBhcnRzID0gZGF0ZV90ZXh0LnNwbGl0KCIvIikKICAgICAgICAgICAgaWYgbGVuKHBhcnRzKSAhPSAzOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiRGF0ZSBtdXN0IHVzZSBZWVlZL00vRCBmb3JtYXQiKQogICAgICAgICAgICB5ZWFyLCBtb250aCwgZGF5ID0gKGludChwYXJ0KSBmb3IgcGFydCBpbiBwYXJ0cykKICAgICAgICAgICAgaG9saWRheV9kYXRlID0gZGF0ZXRpbWUuZGF0ZSh5ZWFyLCBtb250aCwgZGF5KQogICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yIGFzIGV4YzoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigKICAgICAgICAgICAgICAgIGYiTWFsZm9ybWVkIHJvdyBhdCBsaW5lIHtsaW5lX251bX06IGludmFsaWQgZGF0ZSB7ZGF0ZV90ZXh0IXJ9ICh7cm93IXJ9KSIKICAgICAgICAgICAgKSBmcm9tIGV4YwoKICAgICAgICBpZiAoaG9saWRheV9kYXRlLCBuYW1lKSBpbiBzZWVuOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHNlZW4uYWRkKChob2xpZGF5X2RhdGUsIG5hbWUpKQogICAgICAgIHJvd3MuYXBwZW5kKChob2xpZGF5X2RhdGUsIG5hbWUpKQoKICAgIHJvd3Muc29ydChrZXk9bGFtYmRhIGl0ZW06IGl0ZW1bMF0pCiAgICByZXR1cm4gcm93cwoKZGVmIF9lc2NhcGVfaWNzX3RleHQodmFsdWU6IHN0cikgLT4gc3RyOgogICAgIiIiRXNjYXBlIHRleHQgZm9yIGlDYWxlbmRhciBwcm9wZXJ0aWVzIHBlciBSRkMgNTU0NS4iIiIKICAgIHJldHVybiB2YWx1ZS5yZXBsYWNlKCJcXCIsICJcXFxcIikucmVwbGFjZSgiOyIsICJcXDsiKS5yZXBsYWNlKCIsIiwgIlxcLCIpLnJlcGxhY2UoIlxuIiwgIlxcbiIpCgpkZWYgYnVpbGRfaWNzKHJvd3M6IGxpc3RbdHVwbGVbZGF0ZXRpbWUuZGF0ZSwgc3RyXV0sIGR0c3RhbXA6IHN0cikgLT4gc3RyOgogICAgIiIiQnVpbGQgYW4gaUNhbGVuZGFyICguaWNzKSBzdHJpbmcgd2l0aCBDUkxGIGxpbmUgZW5kaW5ncy4iIiIKICAgIGlmIG5vdCBpc2luc3RhbmNlKGR0c3RhbXAsIHN0cikgb3IgbGVuKGR0c3RhbXApICE9IDE2IG9yIG5vdCBkdHN0YW1wLmVuZHN3aXRoKCJaIik6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIkludmFsaWQgRFRTVEFNUDoge2R0c3RhbXAhcn0iKQoKICAgIGxpbmVzID0gWwogICAgICAgICJCRUdJTjpWQ0FMRU5EQVIiLAogICAgICAgICJWRVJTSU9OOjIuMCIsCiAgICAgICAgIlBST0RJRDotLy9qcC1ob2xpZGF5cy1jYWxlbmRhci8vSlAvLyIsCiAgICAgICAgIkNBTFNDQUxFOkdSRUdPUklBTiIsCiAgICAgICAgIk1FVEhPRDpQVUJMSVNIIiwKICAgICAgICAiWC1XUi1DQUxOQU1FOuaXpeacrOOBruelneaXpe+8iOWGhemWo+W6nO+8iSIsCiAgICBdCgogICAgb25lX2RheSA9IGRhdGV0aW1lLnRpbWVkZWx0YShkYXlzPTEpCgogICAgZm9yIGhvbGlkYXlfZGF0ZSwgbmFtZSBpbiByb3dzOgogICAgICAgIGxpbmVzLmV4dGVuZChbCiAgICAgICAgICAgICJCRUdJTjpWRVZFTlQiLAogICAgICAgICAgICBmIlVJRDpzeXVrdWppdHN1LXtob2xpZGF5X2RhdGUuc3RyZnRpbWUoJyVZJW0lZCcpfUBqcC1ob2xpZGF5cy1jYWxlbmRhciIsCiAgICAgICAgICAgIGYiRFRTVEFNUDp7ZHRzdGFtcH0iLAogICAgICAgICAgICBmIkRUU1RBUlQ7VkFMVUU9REFURTp7aG9saWRheV9kYXRlLnN0cmZ0aW1lKCclWSVtJWQnKX0iLAogICAgICAgICAgICBmIkRURU5EO1ZBTFVFPURBVEU6eyhob2xpZGF5X2RhdGUgKyBvbmVfZGF5KS5zdHJmdGltZSgnJVklbSVkJyl9IiwKICAgICAgICAgICAgZiJTVU1NQVJZOntfZXNjYXBlX2ljc190ZXh0KG5hbWUpfSIsCiAgICAgICAgICAgICJUUkFOU1A6VFJBTlNQQVJFTlQiLAogICAgICAgICAgICAiRU5EOlZFVkVOVCIsCiAgICAgICAgXSkKCiAgICBsaW5lcy5hcHBlbmQoIkVORDpWQ0FMRU5EQVIiKQogICAgcmV0dXJuICJcclxuIi5qb2luKGxpbmVzKSArICJcclxuIgoKZGVmIGJ1aWxkX3V0ZjhfY3N2KHJvd3M6IGxpc3RbdHVwbGVbZGF0ZXRpbWUuZGF0ZSwgc3RyXV0pIC0+IHN0cjoKICAgICIiIkJ1aWxkIGEgbm9ybWFsaXplZCBVVEYtOCBDU1Ygc3RyaW5nIHdpdGggTEYgbGluZSBlbmRpbmdzLiIiIgogICAgb3V0cHV0ID0gaW8uU3RyaW5nSU8oKQogICAgd3JpdGVyID0gY3N2LndyaXRlcihvdXRwdXQsIGxpbmV0ZXJtaW5hdG9yPSJcbiIpCiAgICB3cml0ZXIud3JpdGVyb3coWyJkYXRlIiwgIm5hbWUiXSkKICAgIGZvciBob2xpZGF5X2RhdGUsIG5hbWUgaW4gcm93czoKICAgICAgICB3cml0ZXIud3JpdGVyb3coW2hvbGlkYXlfZGF0ZS5pc29mb3JtYXQoKSwgbmFtZV0pCiAgICByZXR1cm4gb3V0cHV0LmdldHZhbHVlKCkKCmRlZiBfbG9hZF9zb3VyY2VfdGV4dChzb3VyY2U6IHN0cikgLT4gc3RyOgogICAgIiIiTG9hZCBTaGlmdF9KSVMgZW5jb2RlZCBDU1YgY29udGVudCBmcm9tIGEgbG9jYWwgZmlsZSBwYXRoIG9yIHRoZSBvZmZpY2lhbCBVUkwuIiIiCiAgICBpZiBvcy5wYXRoLmV4aXN0cyhzb3VyY2UpOgogICAgICAgIHdpdGggb3Blbihzb3VyY2UsICJyYiIpIGFzIGZpbGVfaGFuZGxlOgogICAgICAgICAgICByYXdfYnl0ZXMgPSBmaWxlX2hhbmRsZS5yZWFkKCkKICAgICAgICByZXR1cm4gcmF3X2J5dGVzLmRlY29kZSgiY3A5MzIiKQogICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHNvdXJjZSwgdGltZW91dD02MCkgYXMgcmVzcG9uc2U6CiAgICAgICAgcmF3X2J5dGVzID0gcmVzcG9uc2UucmVhZCgpCiAgICByZXR1cm4gcmF3X2J5dGVzLmRlY29kZSgiY3A5MzIiKQoKZGVmIG1haW4oYXJndjogbGlzdFtzdHJdIHwgTm9uZSA9IE5vbmUpIC0+IGludDoKICAgIGRlZmF1bHRfZnJvbV95ZWFyID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KGRhdGV0aW1lLnRpbWV6b25lLnV0YykueWVhciAtIDEKCiAgICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigKICAgICAgICBkZXNjcmlwdGlvbj0iQ29udmVydCBDYWJpbmV0IE9mZmljZSBob2xpZGF5IENTViB0byBpQ2FsZW5kYXIgKC5pY3MpIGFuZCBVVEYtOCBDU1YuIgogICAgKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgKICAgICAgICAiLS1mcm9tLXllYXIiLAogICAgICAgIHR5cGU9aW50LAogICAgICAgIGRlZmF1bHQ9ZGVmYXVsdF9mcm9tX3llYXIsCiAgICAgICAgaGVscD0iSW5jbHVkZSBvbmx5IGhvbGlkYXlzIGluIHRoaXMgeWVhciBvciBsYXRlciAoZGVmYXVsdDogY3VycmVudCB5ZWFyIC0gMSkuIiwKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgIi0tc291cmNlIiwKICAgICAgICB0eXBlPXN0ciwKICAgICAgICBkZWZhdWx0PURFRkFVTFRfU09VUkNFX1VSTCwKICAgICAgICBoZWxwPSJTb3VyY2UgVVJMIG9yIGxvY2FsIGZpbGUgcGF0aCBmb3Igc3l1a3VqaXRzdS5jc3YuIiwKICAgICkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgIi0tb3V0LWRpciIsCiAgICAgICAgdHlwZT1zdHIsCiAgICAgICAgZGVmYXVsdD0iLiIsCiAgICAgICAgaGVscD0iT3V0cHV0IGRpcmVjdG9yeSBmb3Igc3l1a3VqaXRzdS5pY3MgYW5kIHN5dWt1aml0c3UuY3N2IChkZWZhdWx0OiBjdXJyZW50IGRpcmVjdG9yeSkuIiwKICAgICkKCiAgICBhcmdzID0gcGFyc2VyLnBhcnNlX2FyZ3MoYXJndikKCiAgICByYXdfdGV4dCA9IF9sb2FkX3NvdXJjZV90ZXh0KGFyZ3Muc291cmNlKQogICAgYWxsX3Jvd3MgPSBwYXJzZV9ob2xpZGF5cyhyYXdfdGV4dCkKICAgIGZpbHRlcmVkX3Jvd3MgPSBbCiAgICAgICAgKGhvbGlkYXlfZGF0ZSwgbmFtZSkKICAgICAgICBmb3IgaG9saWRheV9kYXRlLCBuYW1lIGluIGFsbF9yb3dzCiAgICAgICAgaWYgaG9saWRheV9kYXRlLnllYXIgPj0gYXJncy5mcm9tX3llYXIKICAgIF0KCiAgICBkdHN0YW1wID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KGRhdGV0aW1lLnRpbWV6b25lLnV0Yykuc3RyZnRpbWUoIiVZJW0lZFQlSCVNJVNaIikKCiAgICBpY3NfY29udGVudCA9IGJ1aWxkX2ljcyhmaWx0ZXJlZF9yb3dzLCBkdHN0YW1wKQogICAgY3N2X2NvbnRlbnQgPSBidWlsZF91dGY4X2NzdihmaWx0ZXJlZF9yb3dzKQoKICAgIG91dF9kaXIgPSBQYXRoKGFyZ3Mub3V0X2RpcikKICAgIG91dF9kaXIubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQoKICAgIGljc19wYXRoID0gb3V0X2RpciAvICJzeXVrdWppdHN1LmljcyIKICAgIGNzdl9wYXRoID0gb3V0X2RpciAvICJzeXVrdWppdHN1LmNzdiIKCiAgICB3aXRoIG9wZW4oaWNzX3BhdGgsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IiwgbmV3bGluZT0iIikgYXMgZl9pY3M6CiAgICAgICAgZl9pY3Mud3JpdGUoaWNzX2NvbnRlbnQpCgogICAgd2l0aCBvcGVuKGNzdl9wYXRoLCAidyIsIGVuY29kaW5nPSJ1dGYtOCIsIG5ld2xpbmU9IiIpIGFzIGZfY3N2OgogICAgICAgIGZfY3N2LndyaXRlKGNzdl9jb250ZW50KQoKICAgIHJldHVybiAwCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcmFpc2UgU3lzdGVtRXhpdChtYWluKCkpCg==
+#!/usr/bin/env python3
+"""build_calendar.py
+
+Converts the Japanese Cabinet Office's official national-holiday CSV
+into an iCalendar (.ics) file and a normalized UTF-8 CSV.
+"""
+
+import argparse
+import csv
+import datetime
+import io
+import os
+import urllib.request
+from pathlib import Path
+
+DEFAULT_SOURCE_URL = "https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv"
+EXPECTED_HEADERS = ("国民の祝日・休日月日", "国民の祝日・休日名称")
+
+def parse_holidays(text: str) -> list[tuple[datetime.date, str]]:
+    """Parse decoded holiday CSV text into sorted, deduplicated (date, name) tuples."""
+    if not text or not text.strip():
+        raise ValueError("Input CSV text is empty.")
+
+    cleaned_text = text.lstrip("\ufeff")
+    reader = csv.reader(io.StringIO(cleaned_text))
+
+    try:
+        header = next(reader)
+    except StopIteration as exc:
+        raise ValueError("Input CSV text is empty.") from exc
+
+    if header != list(EXPECTED_HEADERS):
+        raise ValueError(
+            f"Unexpected CSV header: {header!r}; "
+            f"expected {list(EXPECTED_HEADERS)!r}"
+        )
+
+    rows: list[tuple[datetime.date, str]] = []
+    seen: set[tuple[datetime.date, str]] = set()
+
+    for line_num, row in enumerate(reader, start=2):
+        if not row or (len(row) == 1 and not row[0].strip()):
+            continue
+
+        if len(row) != 2:
+            raise ValueError(
+                f"Malformed row at line {line_num}: expected 2 columns, got {len(row)} ({row!r})"
+            )
+
+        date_text, name = row
+        name = name.strip()
+        date_text = date_text.strip()
+
+        if not name:
+            raise ValueError(f"Malformed row at line {line_num}: empty holiday name ({row!r})")
+
+        if not date_text:
+            raise ValueError(f"Malformed row at line {line_num}: empty date ({row!r})")
+
+        try:
+            parts = date_text.split("/")
+            if len(parts) != 3:
+                raise ValueError("Date must use YYYY/M/D format")
+            year, month, day = (int(part) for part in parts)
+            holiday_date = datetime.date(year, month, day)
+        except ValueError as exc:
+            raise ValueError(
+                f"Malformed row at line {line_num}: invalid date {date_text!r} ({row!r})"
+            ) from exc
+
+        if (holiday_date, name) in seen:
+            continue
+        seen.add((holiday_date, name))
+        rows.append((holiday_date, name))
+
+    rows.sort(key=lambda item: item[0])
+    return rows
+
+def _escape_ics_text(value: str) -> str:
+    """Escape text for iCalendar properties per RFC 5545."""
+    return value.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+
+def build_ics(rows: list[tuple[datetime.date, str]], dtstamp: str) -> str:
+    """Build an iCalendar (.ics) string with CRLF line endings."""
+    if not isinstance(dtstamp, str) or len(dtstamp) != 16 or not dtstamp.endswith("Z"):
+        raise ValueError(f"Invalid DTSTAMP: {dtstamp!r}")
+
+    lines = [
+        "BEGIN:VCALENDAR",
+        "VERSION:2.0",
+        "PRODID:-//jp-holidays-calendar//JP//",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        "X-WR-CALNAME:日本の祝日（内閣府）",
+    ]
+
+    one_day = datetime.timedelta(days=1)
+
+    for holiday_date, name in rows:
+        lines.extend([
+            "BEGIN:VEVENT",
+            f"UID:syukujitsu-{holiday_date.strftime('%Y%m%d')}@jp-holidays-calendar",
+            f"DTSTAMP:{dtstamp}",
+            f"DTSTART;VALUE=DATE:{holiday_date.strftime('%Y%m%d')}",
+            f"DTEND;VALUE=DATE:{(holiday_date + one_day).strftime('%Y%m%d')}",
+            f"SUMMARY:{_escape_ics_text(name)}",
+            "TRANSP:TRANSPARENT",
+            "END:VEVENT",
+        ])
+
+    lines.append("END:VCALENDAR")
+    return "\r\n".join(lines) + "\r\n"
+
+def build_utf8_csv(rows: list[tuple[datetime.date, str]]) -> str:
+    """Build a normalized UTF-8 CSV string with LF line endings."""
+    output = io.StringIO()
+    writer = csv.writer(output, lineterminator="\n")
+    writer.writerow(["date", "name"])
+    for holiday_date, name in rows:
+        writer.writerow([holiday_date.isoformat(), name])
+    return output.getvalue()
+
+def _load_source_text(source: str) -> str:
+    """Load Shift_JIS encoded CSV content from a local file path or the official URL."""
+    if os.path.exists(source):
+        with open(source, "rb") as file_handle:
+            raw_bytes = file_handle.read()
+        return raw_bytes.decode("cp932")
+    with urllib.request.urlopen(source, timeout=60) as response:
+        raw_bytes = response.read()
+    return raw_bytes.decode("cp932")
+
+def main(argv: list[str] | None = None) -> int:
+    default_from_year = datetime.datetime.now(datetime.timezone.utc).year - 1
+
+    parser = argparse.ArgumentParser(
+        description="Convert Cabinet Office holiday CSV to iCalendar (.ics) and UTF-8 CSV."
+    )
+    parser.add_argument(
+        "--from-year",
+        type=int,
+        default=default_from_year,
+        help="Include only holidays in this year or later (default: current year - 1).",
+    )
+    parser.add_argument(
+        "--source",
+        type=str,
+        default=DEFAULT_SOURCE_URL,
+        help="Source URL or local file path for syukujitsu.csv.",
+    )
+    parser.add_argument(
+        "--out-dir",
+        type=str,
+        default=".",
+        help="Output directory for syukujitsu.ics and syukujitsu.csv (default: current directory).",
+    )
+
+    args = parser.parse_args(argv)
+
+    raw_text = _load_source_text(args.source)
+    all_rows = parse_holidays(raw_text)
+    filtered_rows = [
+        (holiday_date, name)
+        for holiday_date, name in all_rows
+        if holiday_date.year >= args.from_year
+    ]
+
+    dtstamp = datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+    ics_content = build_ics(filtered_rows, dtstamp)
+    csv_content = build_utf8_csv(filtered_rows)
+
+    out_dir = Path(args.out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    ics_path = out_dir / "syukujitsu.ics"
+    csv_path = out_dir / "syukujitsu.csv"
+
+    with open(ics_path, "w", encoding="utf-8", newline="") as f_ics:
+        f_ics.write(ics_content)
+
+    with open(csv_path, "w", encoding="utf-8", newline="") as f_csv:
+        f_csv.write(csv_content)
+
+    return 0
+
+if __name__ == "__main__":
+    raise SystemExit(main())
